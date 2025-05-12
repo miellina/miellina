@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá! Seja bem-vind@! 👋
+🦒 Meu nome é Aline e atualmente sou estudante de desenvolvimento na Residência em TIC/Software Serratec.
+Busco aprender novos assuntos e me aprofundar em qualquer tópico relacionado a artes e cultura.
+
+Encontre meu trabalho também em:
+🎨 <a href="www.instagram.com/ateliealien">Ateliê Alien</a>
+💻 <a href="https://www.behance.net/alinemielli">Behance</a>
+
+
 
 <!--
 **miellina/miellina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
